@@ -57,3 +57,5 @@ Overall, the flow of the application should look something like this:
 - Create a currentPerson state value in App.jsx and set it to initially.
 - Implement the prev and next functionality using the setCurrentPerson function to update the currentPerson state value and move the slides back and forth using the transform property with a translateX value.
 - Implement the auto slide functionality using the setInterval function to change the currentPerson state value at regular intervals.
+
+#### Slider app built with React as part of a learning project from a course.
