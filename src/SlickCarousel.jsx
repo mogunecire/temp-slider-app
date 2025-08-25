@@ -6,8 +6,6 @@ import { shortList, list, longList } from './data'
 import { FaQuoteRight } from 'react-icons/fa'
 import { useState } from 'react'
 const SlickCarousel = () => {
-  const [isAutoplay, setIsAutoplay] = useState(true)
-
   var settings = {
     dots: true,
     infinite: true,
